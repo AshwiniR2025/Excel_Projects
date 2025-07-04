@@ -1,4 +1,4 @@
-#📊 Excel Dashboard - 1
+#📊 Excel Dashboard - 1 
 
 This project presents a professional Excel dashboard designed to visualize key business metrics using various chart types. The dashboard aggregates financial, sales, and operational data in a visually appealing and easy-to-understand format.
 
